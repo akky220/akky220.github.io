@@ -1,0 +1,105 @@
+body{
+    background-color:lightyellow;
+}
+.kashi{
+    font-size:1.75vw;
+    position:relative;
+    top:2vw;
+}
+.lyrics{
+    font-size:2vw;
+    position:relative;
+    right:8vw;
+}
+.dont-sing{
+    font-size:2vw;
+    position:absolute;
+    color:red;
+}
+.color-rep{
+    font-size:2.4vw;
+}
+.black{
+    color:black;
+}
+.red{
+    color:red;
+}
+.webpage-header{
+    height:4vw;
+    width:98vw;
+    background-color:lightyellow;
+    position:sticky;
+    top:0px;
+    z-index:1;
+}
+.h1-1{
+    color:purple;
+    font-size:2.75vw;
+    text-align:left;
+    text-decoration:none;
+}
+.part-title{
+    color:green;
+    font-size:1.75vw;
+    text-decoration:none;
+}
+.video-title-with{
+    font-size:2.5vw;
+    position:relative;
+    bottom:0.5vw;
+}
+.video-title-less{
+    font-size:2.5vw;
+    position:relative;
+    bottom:5.5vw;
+}
+.video-with{
+    position:relative;
+    bottom:3vw;
+}
+.video-less{
+    position:relative;
+    bottom:8vw;
+}
+.part-header{
+    position:relative;
+    bottom:1.5vw;
+}
+#part-header-all{
+    color:goldenrod;
+    font-size:1.75vw;
+}
+#part-header-soprano{
+    color:rgb(0, 255, 98);
+    font-size:1.75vw;
+}
+#part-header-alt{
+    color:rgb(132, 0, 255);
+    font-size:1.75vw;
+}
+#part-header-tenor{
+    color:rgb(133, 133, 133);
+    font-size:1.75vw;
+}
+
+
+.small-over-text {
+    font-size: 0.7em;
+    vertical-align: super;
+}
+#index{
+
+}
+#all{
+
+}
+#soprano{
+
+}
+#alt{
+
+}
+#tenor{
+    
+}
